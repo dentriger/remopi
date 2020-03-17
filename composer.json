@@ -1,0 +1,20 @@
+{
+  "name": "dentriger/remopi",
+  "type": "library",
+  "description": "",
+  "keywords": ["facade","http","guzzle","unirest"],
+  "homepage": "https://github.com/dentriger/remopi",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dentriger",
+      "email": "andrei.devil2012@gmail.com",
+      "homepage": "https://github.com/dentriger/remopi",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.2",
+    "guzzlehttp/guzzle": "^6.5"
+  }
+}
